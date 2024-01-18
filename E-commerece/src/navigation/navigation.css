@@ -1,0 +1,35 @@
+.navi {
+    background: silver;
+    padding: 20px;
+    border-radius: 5px 5px 0 0;
+}
+.btn-clr{
+    border: none;
+    display: inline-block;
+    padding: 5px;
+    padding-right: 50px;
+    margin: 5px;
+    margin-left: 100px;
+    background: none;
+    color: blueviolet;
+    font-size: medium;
+    cursor: pointer;
+    text-decoration: none;
+}
+.navi input{
+    margin-left: 10px;
+    padding-top: 5px;
+    padding-right: 8px;
+    border-radius: 8px;
+}
+.srh{
+    background: none;
+    border: none;
+    color: blueviolet;
+    font-size: medium;
+}
+.txt{
+    background-color: aquamarine;
+    color: black;
+}
+

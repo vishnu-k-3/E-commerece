@@ -1,0 +1,29 @@
+.name h1{
+    color: gold;
+}
+.name img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75vh;
+    width: 100%;
+}
+
+.product {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: silver;
+}
+.line {
+    background: linear-gradient(gold,silver);
+    padding: 2px;
+}
+.contact {
+    display: inline;
+    margin: 21%;
+    color: silver;
+}
+.contact div {
+    cursor: pointer;
+}

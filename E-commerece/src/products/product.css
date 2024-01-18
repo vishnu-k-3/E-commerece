@@ -1,0 +1,18 @@
+.images {
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+    border: 1px solid gold;
+    margin: 29px;
+}
+
+.images button{
+  margin: 2px;
+  background-color: silver;
+  border-radius: 4px;
+  color: darkblue;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  cursor: pointer;
+}
+
+
